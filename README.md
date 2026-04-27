@@ -38,7 +38,7 @@ abnt-academico-skill/
 
 ### Pré-requisito
 
-Você precisa ter acesso ao plano **Pro** ou **Team** do Claude.ai, que permite o upload de skills customizadas.
+No momento, você precisa ter acesso ao plano **Pro** ou **Team** do Claude.ai, que permite o upload de skills customizadas.
 
 ### Passo a passo
 
